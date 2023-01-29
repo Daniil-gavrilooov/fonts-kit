@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'SF-Pro-Display';
+    src: url('../fonts/SF-Pro-Display-Regular.woff2') format('woff2'), url('../fonts/SF-Pro-Display-Regular.woff') format('woff');
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+}
